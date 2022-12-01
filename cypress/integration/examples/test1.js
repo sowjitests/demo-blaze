@@ -71,3 +71,4 @@ describe("My first Test", function () {
     cy.get("td:nth-child(2)").should("have.text", "Samsung galaxy s6"); //Assert the item in the cart
   });
 });
+//test
