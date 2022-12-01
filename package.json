@@ -1,0 +1,19 @@
+{
+  "name": "demo-blaze",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.11.0"
+  },
+  "dependencies": {
+    "cypress-real-events": "^1.7.4",
+    "generate-password": "^1.7.0",
+    "unique-username-generator": "^1.1.3"
+  }
+}
