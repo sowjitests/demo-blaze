@@ -10,7 +10,7 @@ let password = generator.generate({
   numbers: true,
 });
 
-describe("My first Test", function () {
+describe("My first Testt", function () {
   it("Navigate to Login Page of DemoBlaze site", function () {
     cy.visit(url); //Navigation to the webpage demoblaze using the URL
     const homePage = new Home();
